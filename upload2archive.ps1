@@ -1,8 +1,8 @@
-##########################################################
-####           Recursive upload to Azure Archive      ####
-####                                                  ####
-####   https://github.com/matthansen0/batch-docx2pdf  ####
-##########################################################
+##########################################################################
+####           Recursive Upload to Azure Archive Storage              ####
+####                                                                  ####
+####   https://github.com/matthansen0/recursive-upload-azure-archive  ####
+##########################################################################
 
 $StorageAccountName = "xxxxxxxxxxxx"
 $StorageAccountKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
